@@ -10,4 +10,11 @@ The generator is based on the following model:
 
 * [sentence] = `Who` + `action` + `details`
    *  **Who** = `name` from `place`
+   *  Names = ['Daniel', 'Martin', 'John', 'Steven', 'Victor']
+   *  Places = ['New York', 'Paris', 'Plovdiv', 'Rome', 'Sofia']
+* Action = `verbs` + `noun` + `adverbs` 
+   * Verbs = ['eats', 'hold', 'drinks', 'sees', 'brings']
+   * Nouns = ['stones', 'cake', 'apple', 'carrot', 'laptop']
+   * Adverbs = ['slowly', 'rapidly', 'sadly', 'warmly', 'carefuly']
+* Details = ['near the river', 'in the park', 'at home', 'in the pool']
 
