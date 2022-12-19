@@ -8,5 +8,6 @@ This **random sentence generator** is made to construct funny and interesting se
 
 The generator is based on the following model:
 
-* [sentence] = `Who`
+* [sentence] = `Who` + `action` + `details`
+*  **Who** = `name` from `place`
 
